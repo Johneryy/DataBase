@@ -1,5 +1,5 @@
--- insert Method 2
--- insert into games table
+insert Method 2
+insert into games table
 
 insert into games values
 (010, 'Sophia the First', 50.34,10,'Best Buy Store'),
